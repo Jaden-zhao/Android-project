@@ -1,2 +1,4 @@
 # Android-project
 Android开发学习中的一些项目
+
+Calculator文件夹中是一个简单的计算器应用程序，它包含了对Android的一些初级控件的应用。
